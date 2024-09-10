@@ -30,4 +30,5 @@ Este é um projeto de exemplo que implementa uma aplicação CRUD (Create, Read,
 - **Maven** para gerenciamento de dependências e construção do projeto
 
 ## Execução do projeto
-- **Backend** em "src/main/java/br/com/projeto/api_cliente/ApiClienteApplication.java" pressione run para a execução do backend.
+1. Execute o comando em um local de sua prefência no seu terminal `git clone https://github.com/thiago-cloud/Cadastro_De_Cliente-api_backend.git`
+2. Em seguida vá até o local "src/main/java/br/com/projeto/api_cliente/ApiClienteApplication.java" na sua ide e pressione run para a execução do backend.
